@@ -39,3 +39,4 @@ def toZero(n):
         n-=1
 for i in toZero(10):
     print (i)
+
